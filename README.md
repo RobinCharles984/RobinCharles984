@@ -18,14 +18,14 @@ Meu nome é Tales Machado Prudente, atualmente graduando em Engenharias de Softw
 ![Linguagem mais usada](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RobinCharles984&theme=2077)
 
 ## 🧑‍💻 Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=Project-S202-TextGame&theme=2077)](https://github.com/Project-S202-TextGame)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=Funds_GameDev-1&theme=2077)](https://github.com/Funds_GameDev-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=42-Fetin-Song-of-Life&theme=2077)](https://github.com/42-Fetin-Song-of-Life)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=Biochallenge&theme=2077)](https://github.com/Biochallenge)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=FreeDash&theme=2077)](https://github.com/FreeDash)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=InatelVania&theme=2077)](https://github.com/InatelVania)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=Project-S202-TextGame&theme=2077)](https://github.com/RobinCharles984/Project-S202-TextGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=Funds_GameDev-1&theme=2077)](https://github.com/RobinCharles984/Funds_GameDev-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=42-Fetin-Song-of-Life&theme=2077)](https://github.com/RobinCharles984/42-Fetin-Song-of-Life)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=Biochallenge&theme=2077)](https://github.com/RobinCharles984/Biochallenge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=FreeDash&theme=2077)](https://github.com/RobinCharles984/FreeDash)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=InatelVania&theme=2077)](https://github.com/RobinCharles984/InatelVania)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=gamingjam-2022-inahell-requiem&theme=2077)](https://github.com/gamingjam-2022-inahell-requiem)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=Asteroids-GMS2&theme=2077)](https://github.com/Asteroids-GMS2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=Asteroids-GMS2&theme=2077)](https://github.com/RobinCharles984/Asteroids-GMS2)
 
 ## 🏙 Empresas em que atuo
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MetacareLand&theme=2077)
