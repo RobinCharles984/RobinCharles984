@@ -27,5 +27,5 @@ Meu nome é Tales Machado Prudente, atualmente graduando em Engenharias de Softw
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=gamingjam-2022-inahell-requiem&theme=2077)](https://github.com/gamingjam-2022-inahell-requiem)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=Asteroids-GMS2&theme=2077)](https://github.com/Asteroids-GMS2)
 
-## Contribuições
+## 🏙 Empresas que Participo
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MetacareLand&theme=2077)
