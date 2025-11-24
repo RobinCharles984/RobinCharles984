@@ -5,10 +5,12 @@ My name is **Tales Machado Prudente**, currently an undergraduate in Software En
 I am progressing in my career towards **Game Development** and **Computer Graphics**. I am currently exploring the path between joining a AAA company or founding an independent studio, but I am always looking to connect with people who work with these themes and learn more.
 
 <div align="left">
-  <a href="(https://charlestudios.vercel.app)">
+  <a href="https://charlestudios.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/✨_Visit_My_Portfolio-2e0230?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
   </a>
 </div>
+
+<br/>
 
 ---
 
@@ -50,13 +52,55 @@ I am currently developing Virtual and Augmented Reality solutions at **[Metacare
 
 ## 🧑‍💻 Featured Projects
 
-<div align="center">
-
-| | |
-|:-------------------------:|:-------------------------:|
-| **MY PORTFOLIO (WEBSITE)** <br/> <a href="LINK_DO_SEU_SITE_NA_VERCEL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=charlestudios-site&theme=2077&description_lines=2" /></a> | <a href="https://github.com/RobinCharles984/Project-S202-TextGame"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=Project-S202-TextGame&theme=2077&description_lines=2" /></a> |
-| <a href="https://github.com/RobinCharles984/Biochallenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=Biochallenge&theme=2077&description_lines=2" /></a> | <a href="https://github.com/RobinCharles984/FreeDash"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=FreeDash&theme=2077&description_lines=2" /></a> |
-| <a href="https://github.com/RobinCharles984/42-Fetin-Song-of-Life"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=42-Fetin-Song-of-Life&theme=2077&description_lines=2" /></a> | <a href="https://github.com/RobinCharles984/InatelVania"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=InatelVania&theme=2077&description_lines=2" /></a> |
-| <a href="https://github.com/RobinCharles984/Asteroids-GMS2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=Asteroids-GMS2&theme=2077&description_lines=2" /></a> | <a href="https://github.com/RobinCharles984/Funds_GameDev-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=Funds_GameDev-1&theme=2077&description_lines=2" /></a> |
-
-</div>
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <b>MY PORTFOLIO (WEBSITE)</b><br>
+      <a href="https://charlestudios.vercel.app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=charlestudios-site&theme=2077&description_lines=2" alt="Portfolio Site" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <br>
+      <a href="https://github.com/RobinCharles984/Project-S202-TextGame">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=Project-S202-TextGame&theme=2077&description_lines=2" alt="TextGame" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RobinCharles984/Biochallenge">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=Biochallenge&theme=2077&description_lines=2" alt="Biochallenge" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RobinCharles984/FreeDash">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=FreeDash&theme=2077&description_lines=2" alt="FreeDash" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RobinCharles984/42-Fetin-Song-of-Life">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=42-Fetin-Song-of-Life&theme=2077&description_lines=2" alt="Song of Life" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RobinCharles984/InatelVania">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=InatelVania&theme=2077&description_lines=2" alt="InatelVania" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RobinCharles984/Asteroids-GMS2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=Asteroids-GMS2&theme=2077&description_lines=2" alt="Asteroids" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RobinCharles984/Funds_GameDev-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinCharles984&repo=Funds_GameDev-1&theme=2077&description_lines=2" alt="Funds" />
+      </a>
+    </td>
+  </tr>
+</table>
